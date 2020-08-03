@@ -1,5 +1,5 @@
 # Lichee-Tang
-Lichee Tang FPGA board examples by piotr_go
+Lichee Tang FPGA board examples by piotr-go
 
 # Demo
 - https://www.youtube.com/watch?v=_Qe7330HeUg
